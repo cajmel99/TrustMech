@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env / venv
+.venv/
+env/
+venv/
+myenv/
+
+# Secrets
+.env
+
+# System
+.DS_Store
